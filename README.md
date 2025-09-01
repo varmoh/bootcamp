@@ -7,9 +7,10 @@ Your task is to gradually turn this into a Helm chart and automate deployments.
 ---
 
 ## Assignment Steps
-1. Convert manifests into a Helm chart (`helm/`).
-2. Add automation with Makefile commands.
-3. Extend CI/CD workflow in `.github/workflows/ci.yml`.
+1. Build and publish image
+2. Convert manifests into a Helm chart (`helm/`).
+3. Add automation with Makefile commands.
+4. Extend CI/CD workflow in `.github/workflows/ci.yml`.
 
 ---
 
