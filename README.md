@@ -8,7 +8,7 @@ Your task is to gradually turn this into a Helm chart and automate deployments.
 
 ## Assignment Steps
 
-1. Study the raw Kubernetes manifests in `k8s/`.
+1. Study the raw Kubernetes manifests in `k8s/` and Makefile. Explain what is happening in the Makefile.
 
 2. Create a Helm chart at `helm/bootcamp`:
    - Convert `deployment.yaml`, `service.yaml`, `configmap.yaml` into Helm templates.
